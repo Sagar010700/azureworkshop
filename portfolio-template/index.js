@@ -1,6 +1,6 @@
-const name = 'Your Name'
-const title = 'Your Title'
-const mail = 'Your Email'
+const name = 'Sagar'
+const title = 'Sk'
+const mail = 'Sagarsingh9656@gmail.com'
 
 document.getElementById('title').innerText = name
 document.getElementById('name').innerText = name
@@ -10,7 +10,7 @@ document.getElementById(
 ).innerHTML = `<a href="mailto:${mail}" class="btn">${mail}</a>`
 
 /* -----------------------------------------
-  Have focus outline only for keyboard users 
+  I have changed my name 
  ---------------------------------------- */
 
 const handleFirstTab = (e) => {
